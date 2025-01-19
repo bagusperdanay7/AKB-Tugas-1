@@ -21,24 +21,26 @@ Repository ini merupakan penyimpanan tugas 1 mata kuliah **_Aplikasi Komputasi B
 
 Jika ingin klona di komputer lain. Taruh di direktori berikut:
 
-    .
-    ├── Mata Kuliah
-    │   ├── Semester
-    |   |   ├── Semester VI
-    |   |   |   ├── Aplikasi Komputasi Bergerak
-    |   |   |   |   ├── Source Code - AKB
-    |   |   |   |   |   ├── Tugas
-    |   |   |   |   |   └── ...
-    |   |   |   |   └── ...
-    |   |   |   └── ...
-    |   |   └── ...
-    |   └── ...
-    └── ...
+```text
+.
+├── Mata Kuliah
+│   ├── Semester
+|   |   ├── Semester VI
+|   |   |   ├── Aplikasi Komputasi Bergerak
+|   |   |   |   ├── Source Code - AKB
+|   |   |   |   |   ├── Tugas
+|   |   |   |   |   └── ...
+|   |   |   |   └── ...
+|   |   |   └── ...
+|   |   └── ...
+|   └── ...
+└── ...
+```
 
 Jika sudah di berada di folder **Tugas**, baru clone.
 
 ```shell
-git clone https://github.com/bagusperdanay7/AKB-Tugas-1.git
+git clone https://github.com/bagusperdanay7/AKB-Tugas-1.git "Tugas 1"
 ```
 
 ## Setup
